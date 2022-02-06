@@ -50,7 +50,7 @@ That's all from the Netlify
 
 ## Ways to perform Gitlab Pipeline
 
-There are two ways to perform Github Actions:
+There are two ways to perform Gitlab Pipeline:
 
 - From Gitlab Repository
 - From Code Editor
@@ -105,7 +105,7 @@ netlify:
 
 Now we can push our code to our Gitlab repository.
 
-For more on **Github Action** please follow the link: **[https://docs.gitlab.com/ee/ci/pipelines/](https://docs.gitlab.com/ee/ci/pipelines/)**
+For more on **Gitlab Pipeline** please follow the link: **[https://docs.gitlab.com/ee/ci/pipelines/](https://docs.gitlab.com/ee/ci/pipelines/)**
 
 ## Setting up Netlify Keys
 
