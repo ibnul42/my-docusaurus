@@ -1,4 +1,4 @@
 {
-  "label": "Netlify Deploy",
+  "label": "Github Actions (React-Github-Netlify)",
   "position": 4
 }
